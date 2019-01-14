@@ -1,4 +1,4 @@
-Simple Responsive Landind Page with coming Soon and respective counter
+Simple Responsive Landing Page with Coming Soon and respective time  counter with Vanilla Javascript
 
 
 ### How to Run
